@@ -2,7 +2,7 @@
 
 ## 🎓 Computer Science Student | 
 
-I'm a passionate Computer Science student from **Học Viện Hàng Không Việt Nam (VAA)**, specializing in **Application Development**, **Computer Vision**, and **Web Development**.
+I'm a  student from **Học Viện Hàng Không Việt Nam (VAA)**, specializing in **Application Development**, **Computer Vision**, and **Web Development**.
 
 ### 🔥Projects
 
@@ -19,31 +19,26 @@ I'm a passionate Computer Science student from **Học Viện Hàng Không Việ
 - **Algorithms**: Naive Bayes, SVM, Random Forest
 - **Performance**: High-accuracy spam classification with detailed evaluation
 
-#### 📊 [Streaming Music App](https://github.com/tran-hoang-nhan/Music-App-Flutter)
-- **Tech Stack**: Flutter, Firebase (Authentication + Realtime Database), JamendoApi, 
-- **Features**: Interactive visualizations, statistical analysis
-- **Capabilities**: Real-time data processing, export functionality
-- **Use Cases**: Business intelligence, academic research
+#### 🎵 [Streaming Music App](https://github.com/tran-hoang-nhan/Music-App-Flutter)
+- **Tech Stack**: Flutter, Firebase (Auth + Realtime Database), Jamendo API, Provider
+- **AI Features**: Smart recommendations, mood detection, auto playlist generation, AI chat assistant
+- **Core Features**: Music streaming, search & discovery, user playlists, favorites, listening history
+- **UI/UX**: Dark theme, Vietnamese interface, responsive design, mini player
+- **Performance**: Optimized caching, parallel loading, image optimization
 
-#### 🌐 [Streaming Music Web](https://github.com/tran-hoang-nhan/web-scraper)
-- **Tech Stack**: Python, BeautifulSoup, Selenium, requests
-- **Features**: Multi-site scraping, data cleaning, automated scheduling
-- **Output**: CSV, JSON, database integration
-- **Applications**: Market research, price monitoring
-
-#### 🤖 [Chatbot Assistant](https://github.com/tran-hoang-nhan/chatbot-ai)
-- **Tech Stack**: Python, NLTK, Flask, JavaScript
-- **Features**: Natural language processing, intent recognition
-- **Integration**: Web interface, API endpoints
-- **Capabilities**: Multi-language support, learning from conversations
+#### 📱 [BlogMusic Android App](https://github.com/tran-hoang-nhan/BlogMusic)
+- **Tech Stack**: Java (Android), SQLite, Material Design, MediaPlayer API, Retrofit
+- **Features**: Music blog system, streaming integration, user authentication, social interactions
+- **Capabilities**: Article publishing, playlist management, comment system, offline playback
+- **Architecture**: MVVM pattern with Repository, Room database, clean separation of concerns
 
 ### 🛠️ Tech Stack
 
-**Languages**: Python, JavaScript, HTML/CSS, SQL, Dart, Java
+**Languages**: Python, JavaScript, HTML/CSS, SQL, Dart, Java, PHP
 **ML/AI**: scikit-learn, TensorFlow, OpenCV, pandas, numpy, NLTK
-**Web**: Flask, Streamlit, Bootstrap, WebSocket, REST APIs
-**App**: Flutter 
-**Database**: SQLite, MySQL, 
+**Mobile**: Flutter, Provider, Firebase
+**Web**: Flask, Streamlit, Bootstrap, WebSocket, REST APIs, PHP
+**Database**: SQLite, MySQL, Firebase Realtime Database
 **Tools**: Jupyter, Git, VS Code, Docker
 
 ### 📊 GitHub Stats
@@ -64,7 +59,7 @@ I'm a passionate Computer Science student from **Học Viện Hàng Không Việ
 
 ### 📫 Connect with me
 - GitHub: [https://github.com/tran-hoang-nhan](https://github.com/tran-hoang-nhan)
-- Email: [your-email@vaa.edu.vn]
+- Email: [tranhoangnhan10e@gmail.com]
 - LinkedIn: [Your LinkedIn Profile]
 
 ---
