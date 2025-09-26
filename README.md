@@ -32,14 +32,30 @@ I'm a  student from **Học Viện Hàng Không Việt Nam (VAA)**, specializing
 - **Capabilities**: Article publishing, playlist management, comment system, offline playback
 - **Architecture**: MVVM pattern with Repository, Room database, clean separation of concerns
 
-### Tech Stack
+### 🛠 Languages & Tools  
+- <div style="display: grid; grid-template-columns: 1fr 3fr; gap: 10px; max-width: 800px; font-family: Arial, sans-serif;">
+    <div style="font-weight: bold; padding: 10px; background: #f0f0f0; border-radius: 8px;">Backend</div>
+    <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+      <img height="40" src="https://skillicons.dev/icons?i=php,python,nodejs,java"/>
+  </div>
+  
+- <div style="font-weight: bold; padding: 10px; background: #f0f0f0; border-radius: 8px;">Frontend</div>
+    <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+      <img height="40" src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,sass,js,figma"/>
+    </div>
+  
+- <div style="font-weight: bold; padding: 10px; background: #f0f0f0; border-radius: 8px;">Database</div>
+    <div style="padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+      <img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+    </div>
+  </div>
 
-**Languages**: Python, JavaScript, HTML/CSS, SQL, Dart, Java, PHP
-**ML/AI**: scikit-learn, TensorFlow, OpenCV, pandas, numpy, NLTK
-**Mobile**: Flutter, Provider, Firebase
-**Web**: Flask, Streamlit, Bootstrap, WebSocket, REST APIs, PHP
-**Database**: SQLite, MySQL, Firebase Realtime Database
-**Tools**: Jupyter, Git, VS Code, Docker
+
+
+
+
+
+
 
 ### GitHub Stats
 
