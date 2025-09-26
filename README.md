@@ -2,7 +2,7 @@
 
 ## 🎓 Computer Science Student | 
 
-I'm a  student from **Học Viện Hàng Không Việt Nam (VAA)**, specializing in **Application Development**, **Computer Vision**, and **Web Development**.
+I'm a  student from **Học Viện Hàng Không Việt Nam (VAA)**
 
 ### Projects
 
