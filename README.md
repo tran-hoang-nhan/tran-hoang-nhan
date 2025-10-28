@@ -26,7 +26,7 @@ I'm a  student from **Học Viện Hàng Không Việt Nam (VAA)**
 - **UI/UX**: Dark theme, Vietnamese interface, responsive design, mini player
 - **Performance**: Optimized caching, parallel loading, image optimization
 
-#### [BlogMusic Android App](https://github.com/tran-hoang-nhan/Blog-Music)
+#### [BlogMusic Android App](https://github.com/tran-hoang-nhan/Blog-Music-App)
 - **Tech Stack**: Java (Android), SQLite, Material Design, MediaPlayer API, Retrofit
 - **Features**: Music blog system, streaming integration, user authentication, social interactions
 - **Capabilities**: Article publishing, playlist management, comment system, offline playback
